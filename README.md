@@ -45,7 +45,10 @@ You will need two files from the Composabl UI:
 
 - Log in to your Composabl UI.
 - Navigate to a training session.
-- Click on the Artifatcts dropdown and download the Historian files.
+- Click on the Artifacts dropdown and download the Historian files.
+
+![Screenshot by Dropbox Capture](https://github.com/user-attachments/assets/7e190ca5-f149-442b-a47a-f9c22cb3b580)
+
 
 ### 2. Set Up Your Environment
 
